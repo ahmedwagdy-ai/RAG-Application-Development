@@ -1,6 +1,7 @@
 # 🚀 RAG Application Development: Bridge the Gap
 This document outlines the core concepts of building a professional **Retrieval-Augmented Generation (RAG)** application, moving from Data Science notebooks to production-ready Software Engineering.
 
+![image alt](https://github.com/ahmedwagdy-ai/RAG-Application-Development/blob/5cca712b4b5e3d68a172aad95662c474a763f4dd/Retrieval-Augmented-Generation_featured-image.jpg)
 ---
 
 ## 💡 What is RAG?
